@@ -1,0 +1,19 @@
+.img-upload {
+    float: left;
+    position: relative;
+    margin-right: 20px;
+    margin-bottom: 20px
+}
+.img-upload .img-delete {
+    position: absolute;
+    right: -4px;
+    top: -4px;
+    width: 16px;
+    height: 16px;
+    cursor: pointer
+}
+.img-upload .image-show {
+    width: 130px;
+    height: 130px;
+    border: 1px solid #CCC
+}

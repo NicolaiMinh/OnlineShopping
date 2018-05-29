@@ -1,0 +1,8 @@
+/* Add here all your CSS customizations */
+.errorMessage, .successMessage{
+    border: solid 1px red;
+    padding: 5px;
+    background: #5BC0DE;
+    color: black;
+    margin-bottom: 30px;
+}
